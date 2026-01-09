@@ -343,7 +343,7 @@ section{
 /*PROJECTS*/
 
 #projects {
-    padding: var(--section-padding) 0;
+    padding: 10px 0 var(--section-padding) 0;
     background-color: var(--color-white);
 }
 
@@ -404,7 +404,7 @@ section{
 }
 .curiosity-content {
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-                url(imm_one/citynight.png) center/cover no-repeat;
+                url(imm_one/citynight.jpg) center/cover no-repeat;
     padding: 60px;
     display: flex;
     justify-content: space-between;
